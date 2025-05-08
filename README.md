@@ -7,8 +7,10 @@ This is a full-stack eCommerce web application consisting of:
 ---
 
 ## 📁 Directory Structure
-techsoft/
+spendtech/
+
 ├── ecommerce-server/ # Spring Boot backend with Swagger
+
 └── ecommerce_client/ # React + Redux frontend
 
 ## ✅ Features
