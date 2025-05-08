@@ -47,6 +47,7 @@ PostgresSQL make sure it is **running first** before starting the Spring Boot se
 - Go to EcommerceServerApplication.class file present in package -- src/main/java/com/spendtech/ecommerce_server
 - Open and Run EcommerceServerApplication.class (run as java application)
 
+#### other way
 ```bash
 cd ecommerce-server
 ./mvnw spring-boot:run
