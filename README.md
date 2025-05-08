@@ -37,6 +37,9 @@ spendtech/
 
 ## 🚀 Getting Started
 
+### 📌 Important Note
+PostgresSQL make sure it is **running first** before starting the Spring Boot server.
+
 ### 1. Start the Backend
 - cd ecommerce-server
 - Open your project with your favorite ide (IntelliJ IDEA,Eclipse)
@@ -53,4 +56,13 @@ cd ecommerce-server
 
 📘 Swagger UI available at:
 http://localhost:8080/swagger-ui.html
+
+### 1. Start the Frontend
+```bash
+cd ecommmer_client
+npm install
+npm start
+```
+The app will run at:
+http://localhost:3000
 
