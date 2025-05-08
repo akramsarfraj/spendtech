@@ -59,10 +59,12 @@ http://localhost:8080/swagger-ui.html
 
 ### 1. Start the Frontend
 ```bash
-cd ecommmer_client
+cd ecommerce_client
 npm install
 npm start
 ```
 The app will run at:
 http://localhost:3000
+
+🎥 Application Demo 
 
